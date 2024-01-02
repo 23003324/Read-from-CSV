@@ -2,6 +2,9 @@
 
 ## AIM:
 To write a python program for reading content from a CSV file.
+## EQUIPMENTS REQUIRED:
+1. Hardware – PCs
+2.	Anaconda – Python 3.7 Installation / Google collab
 
 ## ALGORITHM:
 ### Step 1:
